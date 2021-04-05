@@ -1,0 +1,15 @@
+D:\Projectvi\Pet_Class\Pet_Class\bin\Debug\netcoreapp3.1\Pet_Class.exe
+D:\Projectvi\Pet_Class\Pet_Class\bin\Debug\netcoreapp3.1\Pet_Class.deps.json
+D:\Projectvi\Pet_Class\Pet_Class\bin\Debug\netcoreapp3.1\Pet_Class.runtimeconfig.json
+D:\Projectvi\Pet_Class\Pet_Class\bin\Debug\netcoreapp3.1\Pet_Class.runtimeconfig.dev.json
+D:\Projectvi\Pet_Class\Pet_Class\bin\Debug\netcoreapp3.1\Pet_Class.dll
+D:\Projectvi\Pet_Class\Pet_Class\bin\Debug\netcoreapp3.1\Pet_Class.pdb
+D:\Projectvi\Pet_Class\Pet_Class\obj\Debug\netcoreapp3.1\Pet_Class.csprojAssemblyReference.cache
+D:\Projectvi\Pet_Class\Pet_Class\obj\Debug\netcoreapp3.1\Pet_Class.Form1.resources
+D:\Projectvi\Pet_Class\Pet_Class\obj\Debug\netcoreapp3.1\Pet_Class.csproj.GenerateResource.cache
+D:\Projectvi\Pet_Class\Pet_Class\obj\Debug\netcoreapp3.1\Pet_Class.AssemblyInfoInputs.cache
+D:\Projectvi\Pet_Class\Pet_Class\obj\Debug\netcoreapp3.1\Pet_Class.AssemblyInfo.cs
+D:\Projectvi\Pet_Class\Pet_Class\obj\Debug\netcoreapp3.1\Pet_Class.csproj.CoreCompileInputs.cache
+D:\Projectvi\Pet_Class\Pet_Class\obj\Debug\netcoreapp3.1\Pet_Class.dll
+D:\Projectvi\Pet_Class\Pet_Class\obj\Debug\netcoreapp3.1\Pet_Class.pdb
+D:\Projectvi\Pet_Class\Pet_Class\obj\Debug\netcoreapp3.1\Pet_Class.genruntimeconfig.cache
