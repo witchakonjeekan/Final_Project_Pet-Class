@@ -83,3 +83,6 @@ private void button1_Click(object sender, EventArgs e)
 ### -และช่องในการ input ชื่อ / comboBox เลือกชนิดสัตว์ / input อายุ 
 ### -Enter คือการเก็บข้อมูล
 ### -Close การออกจากโปรแกรม
+#
+[![01.png](https://i.postimg.cc/4476wD1L/01.png)](https://postimg.cc/14SV3Y2w)
+[![02.png](https://i.postimg.cc/9X6GkL8W/02.png)](https://postimg.cc/DmcJJP3D)
